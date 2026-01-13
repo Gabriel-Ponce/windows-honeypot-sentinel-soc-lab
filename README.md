@@ -1,4 +1,6 @@
-## Honeypoty SOC Lab
+## Honeypot SOC Lab
+
+ VM Honeypot made with Azure and Microsoft Sentinel 
 
 
 ## Lab Setup & Architecture
