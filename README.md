@@ -1,7 +1,7 @@
 ## Honeypot SOC Lab
 
  VM Honeypot made with Azure and Microsoft Sentinel 
-![image]([Screenshot 2026-01-12 202715.png](https://raw.githubusercontent.com/Gabriel-Ponce/windows-honeypot-sentinel-soc-lab/refs/heads/main/Screenshot%202026-01-12%20202715.png))
+![image](https://raw.githubusercontent.com/Gabriel-Ponce/windows-honeypot-sentinel-soc-lab/refs/heads/main/Screenshot%202026-01-12%20202715.png))
 
 ## Lab Setup & Architecture
 
