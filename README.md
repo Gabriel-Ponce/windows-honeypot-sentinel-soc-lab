@@ -22,7 +22,7 @@
 - Windows security and event logs forwarded from the VM to Log Analytics
 - Microsoft Sentinel enabled and connected to the workspace for SIEM capabilities
 
--[image2]("https://raw.githubusercontent.com/Gabriel-Ponce/windows-honeypot-sentinel-soc-lab/refs/heads/main/Screenshot%202026-01-12%20192246.png")
+![image2]("https://raw.githubusercontent.com/Gabriel-Ponce/windows-honeypot-sentinel-soc-lab/refs/heads/main/Screenshot%202026-01-12%20192246.png")
 
 ### Monitoring & Visualization
 - Azure Workbook created in Microsoft Sentinel
