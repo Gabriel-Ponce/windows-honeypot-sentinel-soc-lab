@@ -1,3 +1,6 @@
+## Honeypoty SOC Lab
+
+
 ## Lab Setup & Architecture
 
 ### Cloud Environment
